@@ -3,6 +3,9 @@
 A working prototype of a proposed operational process for handling client problems that become
 stuck — built for an Operations Manager interview at Boom.
 
+**Live demo:** https://lavachebleue4-svg.github.io/boom-escalation-desk/
+(deployed via GitHub Pages from [`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml) on every push to `main`)
+
 This is **not** a replacement helpdesk, CRM, engineering tracker, or production incident-management
 platform. It exists to make the *process* visible: who owns a client issue, what happens next, when
 something is overdue, when Engineering or an external partner needs to get involved, when the client
